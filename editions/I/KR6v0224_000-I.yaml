@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0224/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 常煥等造浮圖記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0025.xml
+    old_id: I01n0025
+hash: sha256:a7ed745f587986fc514eadb457a836455fc34ceaf713ccb17eabf8f351c46a5a
