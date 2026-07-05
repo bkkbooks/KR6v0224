@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0224_000.yaml, hash: 'sha256:a7ed745f587986fc514eadb457a836455fc34ceaf713ccb17eabf8f351c46a5a'}
-  - {seq: 1, filename: KR6v0224_001.yaml, hash: 'sha256:7713dc4c24df868f1c66c777c82fe8a98317453399991d2cf140e44d26a018df'}
+  - {seq: 1, filename: KR6v0224_001.yaml, hash: 'sha256:538eb973f3297f0b0047a5cf3bea965e76b8bcfff88e18ddb32d8498ed384414'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0224_001.markers.yaml, hash: 'sha256:0bb4042d5aa1379af4d0fc722a0336506e92e6e974a195b6b7df8e3c8fa37e8c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0224_000.markers.yaml, hash: 'sha256:184b6c7b31b4d11e5e0db0e9815f5f74621a8f78f1dbca64da511019cffd33e3'}
+  - {seq: 1, role: markers, filename: assets/KR6v0224_001.markers.yaml, hash: 'sha256:bbe54ac2408f63362272d10deceadf18c004aef3f0f8787d13548ff522b013d2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 常煥等造浮圖記
   type: juan
   level: 1
-hash: sha256:95edd89156733fc5e190d1285c2f1d6c0bc983835daf7e203099584dc83fe8e1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d1ac7a39f8e6be0168aa2c2ac55d9d4739020a6a47bb5f60fea921b1d281b705
