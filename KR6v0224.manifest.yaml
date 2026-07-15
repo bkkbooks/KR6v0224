@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0224/v1
 canonical_location: https://kanripo.org/bkk/KR6v0224/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 常煥等造浮圖記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0224_000.yaml, hash: 'sha256:a7ed745f587986fc514eadb457a836455fc34ceaf713ccb17eabf8f351c46a5a'}
-  - {seq: 1, filename: KR6v0224_001.yaml, hash: 'sha256:538eb973f3297f0b0047a5cf3bea965e76b8bcfff88e18ddb32d8498ed384414'}
+  - {seq: 1, filename: KR6v0224_001.yaml, hash: 'sha256:7713dc4c24df868f1c66c777c82fe8a98317453399991d2cf140e44d26a018df'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0224_000.markers.yaml, hash: 'sha256:184b6c7b31b4d11e5e0db0e9815f5f74621a8f78f1dbca64da511019cffd33e3'}
-  - {seq: 1, role: markers, filename: assets/KR6v0224_001.markers.yaml, hash: 'sha256:bbe54ac2408f63362272d10deceadf18c004aef3f0f8787d13548ff522b013d2'}
+  - {seq: 1, role: markers, filename: assets/KR6v0224_001.markers.yaml, hash: 'sha256:720480f3c428675f9f50626da14b376b77230cc67e61ca7105835478a6cebd86'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 常煥等造浮圖記
   type: juan
   level: 1
-hash: sha256:d1ac7a39f8e6be0168aa2c2ac55d9d4739020a6a47bb5f60fea921b1d281b705
+hash: sha256:aad0f20d87c6de87246209b994ab01578d6fdf585c6c56704b2c2510bd4250d4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
